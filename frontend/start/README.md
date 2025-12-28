@@ -43,11 +43,13 @@ A full-featured blog dashboard built with Next.js where admins can manage posts,
 - Handled RTL layouts and Persian UI challenges in dashboard design
 - Improved component reusability by refactoring repeated UI patterns
 - Worked with sorting and filtering logic on the frontend
+- Learned advanced form validation patterns with Yup
 
 ## Libraries & Tools
 - React Query – server state management and data fetching
-- React Hook Form – form handling and validation
+- React Hook Form,Yup – form handling and validation
 - Axios – API communication
+
 
 ## Getting Started
 
