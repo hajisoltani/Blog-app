@@ -5,12 +5,18 @@ A full-featured blog dashboard built with Next.js where admins can manage posts,
 ## Demo
 📸 Screenshots:
 
- ![Dashboard](./screenshots/dashboard.png)
  ![Blog](./screenshots/blog.png)
+ 
+ ![Dashboard](./screenshots/dashboard.png)
+ 
  ![post Management](./screenshots/post-management.png)
+ 
  ![Comment Management](./screenshots/comment-management.png)
+ 
  ![Dark Mode](./screenshots/dark-mode.png)
+ 
  ![Create Post](./screenshots/create-post.png)
+ 
  ![Comments](./screenshots/comments.png)
 
 ## Features
