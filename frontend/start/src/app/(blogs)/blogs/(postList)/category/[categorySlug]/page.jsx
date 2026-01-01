@@ -12,7 +12,6 @@ const Category = async ({ params, searchParams }) => {
         await searchParams
     )}&categorySlug=${categorySlug}`;
 
-    console.log({ queries });
 
     const cookieStore = await cookies()
     const options = setCookieOnReq(cookieStore)
